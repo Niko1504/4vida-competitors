@@ -1,0 +1,113 @@
+{
+ "note": "Фотографии загружены с публичных страниц портфолио компаний; права принадлежат правообладателям. Используются для аналитического сравнения с указанием источника.",
+ "images": [
+  {
+   "file": "img/4vida-delo-2026.webp",
+   "source_page": "https://4vida.ru/ru/projects/delo-transrussia2026",
+   "image_url": "https://4vida.ru/img/beee63e7-7373-49c5-b9b0-7f7e9f8ef602/-300-jpg1.jpg",
+   "width": 1600,
+   "height": 1065,
+   "bytes": 263766,
+   "retrieved": "2026-10-03"
+  },
+  {
+   "file": "img/4vida-delo-2026-interior.webp",
+   "source_page": "https://4vida.ru/ru/projects/delo-transrussia2026",
+   "image_url": "https://4vida.ru/img/beee63e7-7373-49c5-b9b0-7f7e9f8ef602/-300-jpg19.jpg",
+   "width": 1600,
+   "height": 1065,
+   "bytes": 104078,
+   "retrieved": "2026-10-03"
+  },
+  {
+   "file": "img/4vida-vtb-2026.webp",
+   "source_page": "https://4vida.ru/ru/projects/vtb-1741",
+   "image_url": "https://4vida.ru/img/3bab4fa3-d8d8-4ddb-860f-76d9ee319c6d/-2026-10.jpg",
+   "width": 1536,
+   "height": 1024,
+   "bytes": 216386,
+   "retrieved": "2026-10-03"
+  },
+  {
+   "file": "img/4vida-vtb-2026-detail.webp",
+   "source_page": "https://4vida.ru/ru/projects/vtb-1741",
+   "image_url": "https://4vida.ru/img/3bab4fa3-d8d8-4ddb-860f-76d9ee319c6d/-2026-23.jpg",
+   "width": 1448,
+   "height": 1086,
+   "bytes": 63222,
+   "retrieved": "2026-10-03"
+  },
+  {
+   "file": "img/dart-delo-2022.webp",
+   "source_page": "https://dartexpo.com/case/transrussia2022-delo/",
+   "image_url": "https://dartexpo.com/wp-content/uploads/2022/04/m-2-1920x1280.jpg",
+   "width": 1600,
+   "height": 1067,
+   "bytes": 158922,
+   "retrieved": "2026-10-03"
+  },
+  {
+   "file": "img/dart-rosseti-2026.webp",
+   "source_page": "https://dartexpo.com/case/rosseti-pmjef-2026/",
+   "image_url": "https://dartexpo.com/wp-content/uploads/2026/06/dscf6364-1-1920x1280.jpg",
+   "width": 1600,
+   "height": 1067,
+   "bytes": 152432,
+   "retrieved": "2026-10-03"
+  },
+  {
+   "file": "img/formika-delo-2024.webp",
+   "source_page": "https://formika-expo.ru/our-projects/transrussia/",
+   "image_url": "https://formika-expo.ru/upload/iblock/084/nqhk2e2ofx14bx2ervll3dggn4yxhzvj.JPG",
+   "width": 1600,
+   "height": 1066,
+   "bytes": 160112,
+   "retrieved": "2026-10-03"
+  },
+  {
+   "file": "img/formika-sber-2025.webp",
+   "source_page": "https://formika-expo.ru/our-projects/sber-pmef-2025/",
+   "image_url": "https://formika-expo.ru/upload/iblock/d69/zpw01ykt1mo3btwpij1xul4jz3k2prde.jpg",
+   "width": 1600,
+   "height": 1068,
+   "bytes": 105148,
+   "retrieved": "2026-10-03"
+  },
+  {
+   "file": "img/formika-psb-2025.webp",
+   "source_page": "https://formika-expo.ru/our-projects/psb-pmef-2025/",
+   "image_url": "https://formika-expo.ru/upload/iblock/6a7/64noauxtl7r2ies3z9ufr62chotona2p.jpg",
+   "width": 1600,
+   "height": 1068,
+   "bytes": 204206,
+   "retrieved": "2026-10-03"
+  },
+  {
+   "file": "img/euroexpo-delo-2025.webp",
+   "source_page": "https://www.euroexpostand.ru/portfolio/stend-gk-delo/",
+   "image_url": "https://www.euroexpostand.ru/upload/iblock/e6d/ezxx678b05fq6u284qmymwl7qa431tx9.jpg",
+   "width": 766,
+   "height": 450,
+   "bytes": 88016,
+   "retrieved": "2026-10-03"
+  },
+  {
+   "file": "img/grata-vk-2023.webp",
+   "source_page": "https://grata-adv.ru/vyistavochnyiy-stend-vkontakte-na-pmef-2023",
+   "image_url": "https://grata-adv.ru/wp-content/uploads/2023/07/GrataAdv_VK_SPIEF_vyistavochnyiystend14-1152x768.jpg",
+   "width": 1152,
+   "height": 768,
+   "bytes": 42924,
+   "retrieved": "2026-10-03"
+  },
+  {
+   "file": "img/exponic-krym-2022.webp",
+   "source_page": "https://exponic.ru/vystavochnye-stendy/project/respublika-krym",
+   "image_url": "https://exponic.ru/storage/sliders/projects/main/icYzmFrSsDUD6DdwRu4x8UFTYkVHLwXL5IpjG9O9.jpg",
+   "width": 1600,
+   "height": 1200,
+   "bytes": 233710,
+   "retrieved": "2026-10-03"
+  }
+ ]
+}
